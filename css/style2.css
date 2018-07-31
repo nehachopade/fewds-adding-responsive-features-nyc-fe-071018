@@ -33,6 +33,10 @@ body{
   -webkit-column-count: 2;
   column-count: 2;
 }
+#social a{
+  display:inline-block;
+  overflow: hidden;
+}
 }
 @media only screen and (max-width : 750px) {
 #navbar nav a{
