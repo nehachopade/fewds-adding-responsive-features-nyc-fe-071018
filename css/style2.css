@@ -47,11 +47,11 @@ body{
   -webkit-column-count: 1;
   column-count: 1;
 }
-/*.border-right{
+.border-right{
   border-right:0;
-}*/
+}
 #details div{
-  height:auto;
+  height: auto;
 }
 #social a{
   display:inline-block;
